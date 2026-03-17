@@ -1,2 +1,2 @@
 # sample-project
-its a sample projecr
+its a sample project
